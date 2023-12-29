@@ -5,3 +5,5 @@
 #how can I add images here? Is it possible?
 
 ![Alt text](image.png)
+
+#wow, it is possible!
